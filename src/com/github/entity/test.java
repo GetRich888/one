@@ -7,6 +7,6 @@ public class test {
 	}
 	
 	public void test1() {
-		System.out.println("66");
+		System.out.println("99");
 	}
 }
